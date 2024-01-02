@@ -6,4 +6,7 @@ A program used for detecting cars (other object also) with boundary constraint
 ![alt text](https://github.com/Pandaser/Cars_Parking/blob/main/Image.png?raw=true)
 
 
+This model is using yolov8 medium size by ultralytics base model. The model can take a live stream (youtube link) or images or videos or webcam.
+This model allows me to play with computer vision and interest to this side of machine learning.
+
 
